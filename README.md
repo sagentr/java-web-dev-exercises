@@ -29,4 +29,4 @@ To update this Project's SDK to use Java11 on your computer:
 Occasionally, the LaunchCode team will make changes to this repository
 that will affect your coursework. When you start your prep-work for each
 lesson of the course, be sure to fetch to stay up to date with the 
-latest changes. 
+latest changes. "# java-learning" 
