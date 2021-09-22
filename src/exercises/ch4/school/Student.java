@@ -1,4 +1,4 @@
-package exercises.ch4;
+package exercises.ch4.school;
 
 public class Student {
 
