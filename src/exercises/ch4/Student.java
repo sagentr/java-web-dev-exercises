@@ -2,6 +2,10 @@ package exercises.ch4;
 
 public class Student {
 
+    public static void main(String[] args) {
+        Student myself = new Student("Sarah", 1, 1, 4.0);
+    }
+
     private static int nextStudentId = 1;
     private String name;
     private int studentId;
@@ -64,5 +68,9 @@ public class Student {
     public void setGpa(double gpa) {
         this.gpa = gpa;
     }
+
+    //Instantiate the Student class using yourself as the student.
+    //to create a new instance of the class student
+    // For the numberOfCredits give yourself 1 for this class and a GPA of 4.0 because you are a Java superstar!
 }
 
